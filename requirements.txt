@@ -1,0 +1,20 @@
+# data fetching/pre-processing libraries
+spotipy
+python-dotenv
+pandas
+python-telegram-bot==13.15
+
+# data analysis libraries
+matplotlib
+beautifulsoup4
+nltk
+wordcloud
+
+# useful jupyternotebook libraries
+jupyterthemes
+jupyter_contrib_nbextensions
+
+# ML model libraries
+joblib
+
+Flask
